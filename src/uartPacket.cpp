@@ -1,4 +1,4 @@
-#include "UartPacket.hpp"
+#include "uartPacket.hpp"
 
 uint8_t calculateChecksum(UartPacket *cmd)
 {

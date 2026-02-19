@@ -1,5 +1,5 @@
 // Include your classes, that you want to expose to Godot
-#include "uartManager.hpp"
+#include "UartManager.hpp"
 
 #include <gdextension_interface.h>
 #include <godot_cpp/core/class_db.hpp>

@@ -1,5 +1,5 @@
 // Try to keep your includes organized, so that you can easily see which ones come from your project and which ones are from Godot or other libraries
-#include "item_data.hpp" // For headers that are our own, we use ""
+#include "example.hpp" // For headers that are our own, we use ""
 #include <godot_cpp/classes/random_number_generator.hpp>
 #include <godot_cpp/classes/resource.hpp>
 #include <godot_cpp/core/class_db.hpp>
